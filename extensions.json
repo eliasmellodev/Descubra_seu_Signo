@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "ms-python.python", // Exemplo para Python
+    "dbaeumer.vscode-eslint", // Exemplo para linting JavaScript
+    "esbenp.prettier-vscode" // Exemplo para formatação
+  ]
+}
