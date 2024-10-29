@@ -1,0 +1,13 @@
+{
+    "messages": {
+        "welcome": "Bem-vindo ao Consulta de Signo Zodiacal",
+        "error": "Não foi possível carregar os dados. Por favor, tente novamente.",
+        "noSignFound": "Signo não encontrado para a data fornecida."
+    },
+    "theme": {
+        "backgroundColor": "#f4f4f4",
+        "primaryColor": "#5cb85c",
+        "buttonHoverColor": "#4cae4c",
+        "textColor": "#333"
+    }
+}
